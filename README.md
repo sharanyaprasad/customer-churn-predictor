@@ -97,4 +97,3 @@ streamlit run app.py
 
 ---
 
-*Built as part of a consulting internship preparation project. March 2026.*
